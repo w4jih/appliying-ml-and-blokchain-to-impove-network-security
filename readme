@@ -1,0 +1,3 @@
+run the regle extraction to extract the rules 
+then run build with rules .py aftr installing tensorflow
+work to do modifiy the server so they do what build with rules do in the blockchain
